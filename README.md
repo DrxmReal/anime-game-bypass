@@ -1,7 +1,7 @@
 # Anime Game Bypass
 
 ## Overview
-This project provides a bypass for certain restrictions in anime games, allowing users to modify game behavior for testing, debugging, or accessibility purposes. This bypass may include features such as unlocking FPS, removing region locks, or enabling advanced graphical settings.
+This project provides a bypass for anime game
 
 ## Features
 - **Bypass HoyoProtect** – Removes Anti Cheat
